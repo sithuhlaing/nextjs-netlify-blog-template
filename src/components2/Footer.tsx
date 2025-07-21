@@ -1,6 +1,6 @@
 
 
-export default function Footer {
+export default function Footer() {
   return (
     <footer className="footer" data-background-color="black">
       <div className=" container ">

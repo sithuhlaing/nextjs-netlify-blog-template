@@ -38,7 +38,7 @@ export default function Navigation() {
             <li className="nav-item">
               <a className="nav-link" 
                 href="javascript:void(0)" 
-                onclick="scrollToDownload()">
+                onClick={() => {}}>
                 <i className="now-ui-icons arrows-1_cloud-download-93"></i>
                 <p>Download</p>
               </a>
